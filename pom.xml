@@ -4,7 +4,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>4.16</version>
-    <relativePath />
+    <relativePath/>
   </parent>
   <artifactId>gitlab-plugin</artifactId>
   <version>1.5.20-SNAPSHOT</version>
@@ -314,7 +314,7 @@
       <dependency>
         <groupId>org.jboss.resteasy</groupId>
         <artifactId>resteasy-client</artifactId>
-        <version>3.0.16.Final</version>
+        <version>3.15.1.Final</version>
       </dependency>
       <dependency>
         <groupId>com.fasterxml.jackson.jaxrs</groupId>
