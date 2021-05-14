@@ -4,7 +4,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>4.16</version>
-    <relativePath />
+    <relativePath/>
   </parent>
   <artifactId>gitlab-plugin</artifactId>
   <version>1.5.20-SNAPSHOT</version>
@@ -309,7 +309,7 @@
       <dependency>
         <groupId>org.jboss.spec.javax.ws.rs</groupId>
         <artifactId>jboss-jaxrs-api_2.0_spec</artifactId>
-        <version>1.0.0.Final</version>
+        <version>1.0.1.Final</version>
       </dependency>
       <dependency>
         <groupId>org.jboss.resteasy</groupId>
