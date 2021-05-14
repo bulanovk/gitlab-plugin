@@ -4,7 +4,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>4.16</version>
-    <relativePath />
+    <relativePath/>
   </parent>
   <artifactId>gitlab-plugin</artifactId>
   <version>1.5.20-SNAPSHOT</version>
@@ -20,7 +20,7 @@
     <spotbugs.failOnError>false</spotbugs.failOnError>
     <configuration-as-code-plugin.version>1.46</configuration-as-code-plugin.version>
     <hpi.compatibleSinceVersion>1.4.0</hpi.compatibleSinceVersion>
-    <jackson.version>2.12.1</jackson.version>
+    <jackson.version>2.12.3</jackson.version>
     <jenkins-test-harness.version>2.71</jenkins-test-harness.version>
   </properties>
 
